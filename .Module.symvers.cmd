@@ -1,0 +1,1 @@
+savedcmd_/home/jck/Documents/test/mod/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/jck/Documents/test/mod/Module.symvers -T /home/jck/Documents/test/mod/modules.order -i Module.symvers -e 
